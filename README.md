@@ -1,2 +1,2 @@
-# devops
-This repository consist of all devops scripts, documents, that I had made to perform different tasks.
+# AWS Lambdas
+This repository consist of lambda scripts that I had made to integerate AWS Services with the PHP based plateform.
