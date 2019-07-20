@@ -3,7 +3,7 @@ This repository consist of lambda scripts that I had made for 2 projects **Cloud
 
 Scripts used in the project are as:
 
-| Script Name                       | Description                                                           | Plateform   | Project     |
+| Script Name                       | Description                                                           | Platform    | Project     |
 | --------------------------------- | --------------------------------------------------------------------- | ----------- | ----------- |
 | Extract-snapidfromImage           | Get snapshot id of custom AMIs.                                       | Javascript  | CloudPortal |
 | EBS-Snapshot                      | Create snapshot by volume id.                                         | Javascript  | CloudPortal |
